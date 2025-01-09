@@ -32,6 +32,12 @@
 </a>
 
 
+## ` Pair with WhatsApp V2 💀☑️`
+<h2 align="left">  <a href="https://replit.com/@kesec64416/Kaviexe-pair"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+
+
+
  # Setup For Deployment 👇
 
 - ⛔Download THE REPOSITORY
